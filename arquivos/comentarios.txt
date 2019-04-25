@@ -1,0 +1,10 @@
+Muito bom\Positivo
+A comida estava muito boa, parabens\Positivo
+A comida estava horrivel, precisa melhorar mais\Negativo
+A comida estava mais ou menos\Neutro
+A comida estava horrivel, nao gostei!\Negativo
+A comida estava boa, mas nao gostei da guarnição\Positivo
+:)\Positivo
+:(\Negativo
+:|\Negativo
+A comida estava razoavel\Neutro

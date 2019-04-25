@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+  <html>
+    <head>
+      <meta name = "viewport" content = "width = device-width, initial-scale = 1">
+      <link rel = "stylesheet" href = "https://fonts.googleapis.com/icon?family=Material+Icons"/>
+      <link rel = "stylesheet" href = "https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.3/css/materialize.min.css"/>
+      <script src = "https://code.jquery.com/jquery-2.1.1.min.js"></script>
+      <script src = "https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.3/js/materialize.min.js"></script>
+      <script type="text/javascript" src="./static/js/index.js"></script>
+    </head>
+
+    <body>
+      <nav>
+        <div class="nav-wrapper green darken-2">
+          <a href="/principal" class="brand-logo">Início</a>
+          <ul id="nav-mobile" class="right hide-on-med-and-down">
+            <li><a href="escolher_cardapio.html">Cardápio do Dia</a></li>
+            <li><a href="/cardapios">Cardápios Disponíveis</a></li>
+            <li><a href="collapsible.html">Cadastrar</a></li>
+          </ul>
+        </div>
+      </nav>
+      <h4> Escolher Cardápio Diário </h4>
+
+      <!-- Parte 1 do cardapio-->
+      <form action="/cardapio" method="POST">
+        <div class = "row">
+           <div class = "col s3">
+              <div class = "row">
+              <label>Prato Base 1</label>
+                 <select name="pratobase1">
+                    {% for i in prato_base1 %}
+                     <option value = "{{i}}">{{i}}</option>
+                    {% endfor %}
+                 </select>
+              </div>
+           </div>
+           <div class = "col s3">
+              <div class = "row">
+              <label>Prato Base 2</label>
+                 <select name="pratobase2">
+                   {% for i in prato_base2 %}
+                    <option value = "{{i}}">{{i}}</option>
+                   {% endfor %}
+                 </select>
+              </div>
+           </div>
+           <div class = "col s3">
+              <div class = "row">
+              <label>Prato Principal</label>
+                 <select name="pratoprincipal">
+                    {% for i in prato_principal %}
+                     <option value = "{{i}}">{{i}}</option>
+                    {% endfor %}
+                 </select>
+              </div>
+           </div>
+           <div class = "col s3">
+              <div class = "row">
+              <label>Guarnição</label>
+                 <select name="guarnicao">
+                    {% for i in guarnicao %}
+                        <option value = "{{i}}">{{i}}</option>
+                    {% endfor %}
+                 </select>
+              </div>
+           </div>
+        </div>
+
+        <div class = "row">
+           <div class = "col s3">
+              <div class = "row">
+              <label>Salada 1</label>
+                 <select name="salada1">
+                    {% for i in salada1 %}
+                     <option value = "{{i}}">{{i}}</option>
+                    {% endfor %}
+                 </select>
+              </div>
+           </div>
+           <div class = "col s3">
+              <div class = "row">
+              <label>Salada 2</label>
+                 <select name="salada2">
+                    {% for i in salada2 %}
+                     <option value = "{{i}}">{{i}}</option>
+                    {% endfor %}
+                 </select>
+              </div>
+           </div>
+           <div class = "col s3">
+              <div class = "row">
+              <label>Salada 3</label>
+                 <select name="salada3">
+                    {% for i in salada3 %}
+                     <option value = "{{i}}">{{i}}</option>
+                    {% endfor %}
+                 </select>
+              </div>
+           </div>
+           <div class = "col s3">
+              <div class = "row">
+              <label>Sobremesa</label>
+                 <select name="sobremesa">
+                    {% for i in sobremesa %}
+                     <option value = "{{i}}">{{i}}</option>
+                    {% endfor %}
+                 </select>
+              </div>
+           </div>
+           <div class="center-align">
+               <div class = "col s3 offset-s4">
+                   <input name="picker" type="date" placeholder="Data" class="datepicker">
+              </div>
+           </div>
+        </div>
+
+        <div class="center-align">
+          <!-- <input type = "submit" value = "submit" /> -->
+          <button id="btn" class="btn waves-effect waves-light" type="submit" value="submit" name="action" onclick="botaoClicado()">Choice
+            <i class="material-icons left">send</i>
+          </button>
+        </div>
+      </form>
+
+      <footer class="page-footer green darken-2">
+          <div class="container">
+            <div class="row">
+              <div class="col l6 s12">
+                <h5 class="white-text">IFoodAppraiser</h5>
+                <a href="http://www.barbacena.ifsudestemg.edu.br" target="_blank" class="grey-text text-lighten-4">Instituto Federal de Educação, Ciência e Tecnologia do Sudeste de Minas - Câmpus Barbacena.</a>
+              </div>
+              <div class="col l4 offset-l2 s12">
+                <h5 class="white-text">Sobre o desenvolvedor</h5>
+                <ul>
+
+                  <li><a class="grey-text text-lighten-3" href="https://github.com/gabrielbpereira" target="_blank">GitHub</a></li>
+                  <li><a class="grey-text text-lighten-3" href="https://www.instagram.com/bpereira.gabriel/" target="_blank">Instagram</a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+          <div class="footer-copyright">
+            <div class="container center-align">
+            © 2019 Copyright. Todos os direitos reservados a Gabriel Pereira.
+            </div>
+          </div>
+      </footer>
+    </body>
+  </html>

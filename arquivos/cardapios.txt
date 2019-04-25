@@ -1,0 +1,334 @@
+01/02/17;Arroz Simples;Feijão Simples;Carne Bovina Assada;Farofa de Ovos;Alface;Couve;Salada de Soja;Gelatina;1
+02/02/17;Arroz Simples;Feijão Simples;Coxa e Sobrecoxa Assada;Batata Cozida;Alface;Chicória;Beterraba Cozida;Doce em Tablete;1
+03/02/17;Arroz Simples;Feijão Simples;Carne Moída ao Molho;Macarrão ao Alho e Óleo;Alface;Couve;Tomate;Gelatina;1
+06/02/17;Arroz Simples;Feijão Simples;Coxa e Sobrecoxa Ao Molho;Farofa de Ovos com Cenoura;Alface;Chicória;Beterraba Ralada;Doce em Tablete e Suco;1
+07/02/17;Arroz Simples;Feijão Simples;Carne Moída Bovina ao Molho;Angu;Alface;Couve;Couve-flor;Gelatina e Suco;1
+08/02/17;Arroz Simples;Feijão Simples;Carne Suína de Panela;Talharim ao Alho e Óleo;Alface;Chicória;Salada de Tomate e Cebola;Laranja e Suco;1
+09/02/17;Arroz Simples;Feijão Simples;Carne Suína Assada ao Molho;Repolho Refogado com Cenouras e Linguiça defumada;Alface;Couve;Beterraba Cozida;Maçã e Suco;1
+10/02/17;Arroz Simples;Feijão Simples;Linguiça Frita ao Molho;Batata Suetê;Alface;Chicória;Salada de Soja;Gelatina e Suco;1
+13/02/17;Arroz Simples;Feijão Simples;Peito de Frango ao Molho de Tomate;Farofa de Cenoura;Alface;Chicória;Repolho Ralado;Doce em Tablete e Suco;1
+14/02/17;Arroz Simples;Feijão Simples;Bife Suíno Grelhado;Macarrão Parafuso à Bolonhesa;Alface;Couve;Couve-flor;Pudim e Suco;1
+15/02/17;Arroz Simples;Feijão Simples;Coxa e Sobrecoxa de Frango Assada;Angu de Tabuleiro com Molho de Carne;Alface;Chicória;Beterraba Ralada;Doce em Tablete e Suco;1
+16/02/17;Arroz Simples;Feijão Simples;Picadinho Suíno ao Molho de Tomate;Batata Corada;Alface;Couve;Salada de Soja;Laranja e Suco;1
+17/02/17;Arroz Simples;Feijão Simples;Carne Bovina Assada ao Molho Madeira;Farofa de Couve;Alface;Chicória;Tomate com Cebola em Cubos;Banana e Suco;1
+20/02/17;Arroz Simples;Feijão Simples;Coxa e Sobrecoxa Assada;Macarrão Parafuso ao Molho Branco;Alface;Chicória;Cenoura Ralada;Doce em Tablete e Suco;1
+21/02/17;Arroz Simples;Feijão Simples;Carne Moída com Cenoura;Angu Cortado;Alface;Repolho;Beterraba Ralada;Gelatina e Suco;1
+22/02/17;Arroz Simples;Feijão Simples;Asa de Frango Empanada;Batata Ensopada;Alface;Couve;Salada de Soja;Maçã e Suco;1
+23/02/17;Arroz Simples;Feijão Simples;Pernil Assado ao Molho Madeira;Farofa de Cenoura;Alface;Chicória;Vinagrete;Arroz Doce e Suco;1
+24/02/17;Arroz Simples;Feijão Simples;Peito de Frango ao Molho;Guarnição Francesa;Alface;Couve;Tabule;Laranja e Suco;1
+02/03/17;Arroz Simples;Feijão Simples;Linguiça Frita;Macarrão à Bolonhesa;Alface;Salada de Soja;Beterraba Ralada;Suco;1
+03/03/17;Arroz Simples;Feijão Simples;Pernil Assado ao Molho Madeira;Farofa de Couve;Alface;Chicória;Beterraba Cozida;Gelatina e Suco;1
+06/03/17;Arroz Simples;Feijão Simples;Peito de Frango Ensopado;Canjiquinha;Alface;Chicória;Salada de Repolho com Cenoura;Suco;1
+07/03/17;Arroz Simples;Feijão Simples;Picadinho Suíno ao Molho;Angu com Molho de Frango;Alface;Couve;Salada de Soja;Suco e Pudim;1
+08/03/17;Arroz Simples;Feijão Simples;Carne Bovina Assada ao Molho Madeira;Farofa de Cenoura;Alface;Chicória;Tabule;Suco e Gelatina;1
+09/03/17;Arroz Simples;Feijão Simples;Carne Moída Bovina ao Molho;Macarrão Parafuso ao Alho e Óleo;Alface;Couve;Vinagrete;Suco e Banana;1
+10/03/17;Arroz Simples;Feijão Simples;Peixe Frito;Batata Ensopada;Alface;Chicória;Beterraba Cozida;Suco e Maçã;0
+13/03/17;Arroz Simples;Feijão Simples;Peito de Frango Ensopado;Angu de Tabuleiro;Alface;Chicória;Salada de Repolho;Suco e Doce Tablete;1
+14/03/17;Arroz Simples;Feijão Simples;Pernil Assado ao Molho Madeira;Farofa de ovos;Alface;Couve;Salada de Soja;Suco e Gelatina;1
+15/03/17;Arroz Simples;Feijão Simples;Coxa e Sobrecoxa de Frango assada;Guarnição Francesa;Alface;Chicória;Tabule;Suco e Banana;1
+16/03/17;Arroz Simples;Feijão Simples;Bife Suíno Acebolado;Macarrão Parafuso ao Molho Branco;Alface;Couve;Tomate;Suco e Laranja;1
+17/03/17;Arroz Simples;Feijão Simples;Carne Moída Bovina com cenoura;Batata Sauté;Alface;Salada de Repolho;Salada de Soja;Suco e Maçã;1
+20/03/17;Arroz Simples;Feijão Simples;Carne de Panela/Costela Suína;Macarronese de Presunto;Alface;Couve;Tomate;Suco e Doce em Tablete;0
+21/03/17;Arroz Simples;Feijão Simples;Carne Bovina Assada ao Molho Madeira;Farofa de Ovos e Couve;Alface;Chicória;Beterraba Cozida;Suco e Doce em Tablete;1
+22/03/17;Arroz Simples;Feijão Simples;Picadinho Suíno;Angu de Tabuleiro com Molho de Frango;Alface;Couve;Cenoura Cozida;Suco e Gelatina;1
+23/03/17;Arroz Simples;Feijão Simples;Pernil Assado ao Molho Madeira;Virado de Cenoura;Alface;Couve;Tomate;Suco e Banana;1
+24/03/17;Arroz Simples;Feijão Simples;Carne Bovina Moída Cozida;Espaguete ao Alho e Óleo;Alface;Couve;Salada de Soja;Suco e Maçã;1
+27/03/17;Arroz Simples;Feijão Simples;Carne de Panela Bovina;Macarrão Talharim à Bolonhesa;Alface;Couve;Salada de Batata Palha;Suco e Doce em Tablete;1
+28/03/17;Arroz Simples;Feijão Simples;Carne Bovina Assada ao Molho Madeira;Farofa de Cenoura;Alface;Chicória;Beterraba Cozida;Suco e Pudim com Coco;1
+29/03/17;Arroz Simples;Feijão Simples;Carne Moída Bovina com Cenoura;Macarrão Parafuso ao Molho Branco;Alface;Couve;Salada de Tomate e Cebola;Suco e Maçã;1
+30/03/17;Arroz Simples;Feijão Simples;Carne de Panela Suína;Canjiquinha;Alface;Couve;Cenoura Cozida;Suco e Gelatina;1
+31/03/17;Arroz Simples;Feijão Simples;Peixe Frito / Asa de Frango;Batata Ensopada;Alface;Couve;Beterraba Cozida;Suco e Arroz Doce Moreno;0
+03/04/17;Arroz Simples;Feijão Simples;Picadinho Suíno;Angu de Tabuleiro com Molho de Carne Moída;Alface;Chicória;Vinagrete;Suco e Doce Tablete;1
+04/04/17;Arroz Simples;Feijão Simples;Carne Suína Assada ao Molho Madeira;Guarnição Francesa;Alface;Couve;Beterraba Cozida;Suco e Gelatina;1
+05/04/17;Arroz Simples;Feijão Simples;Carne Moída Bovina;Espaguete ao Alho e Oléo;Alface;Chicória;Ovos Cozidos;Suco e Fruta;1
+06/04/17;Arroz Simples;Feijão Simples;Carne Suína Assada ao Molho Madeira;Farofa de Milho com couve;Alface;Couve;Cenoura Cozida;Suco e Arroz Doce;1
+07/04/17;Arroz Simples;Feijão Simples;Peixe/ Coxa de Frango;Batata Souté;Alface;Chicória;Salada de Soja;Suco e Fruta;1
+10/04/17;Arroz Simples;Feijão Simples; Coxa e Sobrecoxa de Frango ao Molho de Tomate;Farofa de Couve com Ovos;Alface;Cenoura Ralada;Tabule;Suco e Doce Tablete;1
+11/04/17;Arroz Simples;Feijão Simples;Picadinho Suíno/ Bovino;Macarrão ao Alho e Óleo;Alface;Chicória;Salada de Soja;Suco e Arroz Doce;1
+12/04/17;Arroz Simples;Feijão Simples;Carne Bovina Assada ao Molho Madeira;Guarnição Francesa;Alface;Couve;Ovo Cozido;Suco e Fruta;1
+17/04/17;Arroz Simples;Feijão Simples;Carne de Panela Suína;Salpicão de Presunto;Alface;-;Tomate;Suco e Doce em Tablete;1
+18/04/17;Arroz Simples;Feijão Simples;Pernil Assado ao Molho Madeira;Farofa de Ovos e Couve;Alface;Chicória;Salada de Batata com Cenoura e ovos;Suco e Gelatina;1
+19/04/17;Arroz Simples;Feijão Simples;Carne Moída com Cenoura;Angu de Tabuleiro;Alface;Couve;Beterraba Cozida;Suco e Pudim;1
+20/04/17;Arroz Simples;Feijão Simples;Bife Suíno Grelhado;Macarronese de Presunto;Alface;Chicória;Tomate;Suco e Banana;1
+24/04/17;Arroz Simples;Feijão Simples;Carne Moída Bovina;Guarnição Francesa;Alface;Salada de Tomate Com Cebola;-;Suco e Banana;1
+25/04/17;Arroz Simples;Feijão com Carne Seca;Peixe Frito;Pirão;Alface;Couve;Salada de Tomate;Suco e Arroz Doce;0
+26/04/17;Arroz Simples;Feijão Simples;Carne Suína Assada ao Molho Madeira;Farofa de Couve;Alface;Chicória;Cenoura Ralada;Suco e Pudim;1
+27/04/17;Arroz Simples;Feijão com Carne Seca;Frango Cozido/Frito;Macarrão à Bolonhesa;Alface;Couve;Beterraba Cozida;Suco e Laranja;1
+28/04/17;Arroz Simples;Feijão Simples;Carne Bovina/Suína Assada;Angu com Carne Moída;Alface;Chicória;Salada de Tomate com Cebola;Suco e Doce em Tablete;1
+02/05/17;Arroz Simples;Feijão Simples;Carne de Panela Suína/Bovina;Macarronese de Presunto;Alface;-;Beterraba Ralada;Suco e Doce em Tablete;1
+03/05/17;Arroz Simples;Feijão com Carne Seca;Carne Bovina Assada;Farofa de Couve;Alface;Chicória;Cenoura Cozida;Suco e Gelatina;1
+04/05/17;Arroz Simples;Feijão Simples;Picadinho Suíno com Batata;Angu de Tabuleiro;Alface;Couve;Beterraba Cozida;Suco e Maçã;1
+05/05/17;Arroz Simples;Feijão com Carne Seca;Pernil Assado ao Molho Madeira;Virado de Cenoura;Alface;Chicória;Tomate;Suco e Pudim;1
+08/05/17;Arroz Simples;Feijão com Carne Seca;Picadinho Suíno;Macarrão Talharim a Bolonhesa;Cenoura Ralada;Salada de Repolho com Tomate;-;Suco e Doce em Tablete;1
+09/05/17;Arroz Simples;Feijão Simples;Pernil Suíno Assado ao Molho Madeira;Farofa de Couve;Alface;Chicória;Cenoura Cozida;Suco e Tangerina;1
+10/05/17;Arroz Simples;Feijão Simples;Carne de Panela Suína/Bovina;Macarrão Parafuso ao Molho Branco;Alface;Couve;Beterraba Cozida;Suco e Gelatina;1
+11/05/17;Arroz Simples;Feijão Simples;Carne Bovina/Suína Assada;Guarnição Francesa;Alface;Chicória;Salada de Tomate com Cebola;Suco e Maçã;1
+12/05/17;Arroz Simples;Feijão Simples;Peixe e Asa de Frango Frita;Batata Cozida;Alface;Couve;Salada de Soja;Suco e Banana;0
+15/05/17;Arroz Simples;Feijão Simples;Picadinho Suíno;Angu de Tabuleiro;Repolho com Cenoura;-;Salada de Soja;Suco e Doce em Tablete;1
+16/05/17;Arroz Simples;Feijão Simples;Pernil Assado ao Molho Madeira;Farofa de Couve;Alface;Chicória;Salada de Batata com Cenoura;Suco e Fruta;1
+17/05/17;Arroz Simples;Feijão Simples;Bife Suíno Acebolado;Repolho Com Cenoura Refogados;Alface;Couve;Couve-flor;Suco e Pudim;1
+18/05/17;Arroz Simples;Feijão Simples;Carne Bovina Moída;Guarnição Francesa;Alface;Chicória;Couve-flor;Suco e Fruta;1
+19/05/17;Arroz Simples;Feijão Simples;Carne de Panela Suína;Canjiquinha;Alface;Couve;Beterraba Cozida;Suco e Gelatina;1
+22/05/17;Arroz Simples;Feijão Simples;Carne de Panela Suína;Canjiquinha;Salada de Cenoura com Repolho ;Salada de Batata com Presunto ;Beterraba Ralada ;Suco e Laranja/Doce de Tablete;1
+23/05/17;Arroz Simples;Feijão Simples;Picadinho Suíno;Angu de Tabuleiro ;Alface;Couve ;Cenoura Ralada ;Suco e Gelatina;1
+24/05/17;Arroz Simples;Feijão Simples;Pernil Suíno Assado;Farofa de Cenoura ;Alface;Chicória ;Salada de Repolho com Cheiro Verde;Suco e Fruta ;1
+25/05/17;Arroz Simples;Feijão Simples;Carne de Panela Suína;Macarrão Gravatinha ao Molho Branco;Alface;Couve;Tabule ;Suco e Pudim;1
+26/05/17;Arroz Simples;Feijão Simples;Carne Bovina Assada;Virado de Cenoura com Ovos ;Alface;Chicória;Vinagrete ;Suco e Fruta;1
+30/05/17;Arroz Simples;Feijão Simples;Pernil Assado ao Molho Madeira;Repolho Refogado com Cenoura;Alface;Chicória;Beterraba Ralada;Suco e Fruta;1
+31/05/17;Arroz Simples;Feijão Simples;Carne Moída;Espaguete ao Alho e Óleo;Alface;Couve;Cenoura Cozida;Suco e Pudim;1
+01/06/17;Arroz Simples;Feijão Simples;Carne de Panela Suína;Guarnição Francesa;Alface;Chicória;Beterraba Cozida;Suco e Gelatina;1
+02/06/17;Arroz Simples;Feijão Simples;Coxa e Sobrecoxa Ensopada;Batata ao Forno;Alface;Couve;Salada de Soja;Suco e Fruta;1
+05/06/17;Arroz Simples;Feijão Simples;Carne de Panela Suína;Canjiquinha ao Bacon;Cenoura Ralada;Beterraba Ralada;Salada de Soja;Suco e Laranja/ Mexerica;1
+06/06/17;Arroz Simples;Feijão Simples;Peito de Frango ao Molho;Macarrão Parafuso ao Molho Branco;Alface;Chicória;Salada de Repolho;Suco e Maçã;1
+07/06/17;Arroz Simples;Feijão Simples;Carne Bovina Assada ao Molho Madeira;Farofa de Cenoura e Bacon;Alface;Couve;Beterraba Cozida;Suco e Pudim;1
+08/06/17;Arroz Simples;Feijão Simples;Coxa e Sobrecoxa de Frango Assada;Batata Souté;Alface;Chicória;Salada de Repolho;Suco e Banana;1
+09/06/17;Arroz Simples;Feijão Simples;Carne de Panela Bovina;Talharim a Bolonhesa;Alface;Couve;Cenoura Cozida;Suco e Gelatina;1
+12/06/17;Arroz Simples;Feijão Simples;Coxa e Sobrecoxa Assada;Farofa de Ovos e Bacon;Beterraba Ralada;Cenoura Ralada;Macarronese de Presunto;Suco e Doce em Tablete;1
+13/06/17;Arroz Simples;Feijão Simples;Carne Moída;Espaguete ao Alho e Óleo;Alface;Couve;Salada de Batata /Salada de Batata palha;Suco e Gelatina;1
+14/06/17;Arroz Simples;Feijão Simples;Asa de Frango Empanada;Batata Ensopada;Alface;Couve;Beterraba Cozida;Suco e Fruta;0
+19/06/17;Arroz Simples;Feijão Simples;Almondega ao Molho de Tomate;Guarnição Francesa;Beterraba Ralada;Soja com Cenoura;-;Suco e Doce em Tablete;0
+20/06/17;Arroz Simples;Feijão Simples;Pernil Suíno Assado ao Molho Madeira;Farofa de Ovos;Alface;Couve;Cenoura Cozida;Suco e Pudim;1
+21/06/17;Arroz com Vagem;Feijão Simples;Carne Bovina Assada ao Molho de Tomate;Chuchu com Carne Moída;Alface;Couve;Beterraba Cozida;Suco e Gelatina;1
+22/06/17;Arroz Simples;Feijão Simples;Pernil Suíno Assado ao Molho Madeira;Macarrão ao Alho e Óleo;Alface;Couve;Salada de Grão de Bico;Suco e Pudim;1
+23/06/17;Arroz com Cenoura;Feijão Simples;Lazanha à Bolonhesa;Repolho Refogado com Carne Moída;Alface;Couve;Salada de Lentilha;Suco e Gelatina;1
+26/06/17;Arroz Simples;Feijão Simples;Picadinho Suíno;Macarrão Espaguete ao Alho e Óleo;Beterraba Ralada;Salpicão de Presunto;-;Suco e Laranja;1
+27/06/17;Arroz com Vagem e Cenoura;Feijão Simples;Pernil Assado ao Molho Madeira;Batata Ensopada;Alface;Couve;Salada de Soja;Suco e Iogurte;1
+28/06/17;Arroz Simples;Feijão Simples;Carne de Panela Suína;Guarnição Francesa;Alface;Couve;Beterraba Cozida;Suco e Gelatina;1
+29/06/17;Arroz Simples;Feijão Simples;Carne Assada ao Molho;Farofa de Cenoura e Bacon;Alface;Couve;Cenoura Cozida;Suco e Doce de Leite;1
+30/06/17;Arroz à Grega;Feijão Simples;Lasanha de Carne Moída;-;Alface;Couve;Beterraba Cozida;Suco e Fruta;1
+03/07/17;Arroz Com Cenoura;Feijão Simples;Carne Bovina Moída ao Molho de Tomate;Macarrão Talharim ao Alho e Óleo;Beterraba Ralada;Salada de Grão de Bico com Cenoura;-;Suco e Fruta;1
+04/07/17;Arroz Simples;Feijão Simples;Carne de Panela Suína/Bovina;Batata ao Forno com Queijo;Alface;Couve;Cenoura Cozida;Suco e Iogurte;1
+05/07/17;Arroz Simples;Feijão Simples;Carne Assada Fatiada;Farofa de Frutas;Alface;Couve;Beterraba Cozida;Suco e Doce de Leite;1
+06/07/17;Arroz Simples;Feijão Simples;Lasanha à Bolonhesa;Repolho Refogado com Carne Moída;Alface;Couve;Legumes Cozidos;Suco e Gelatina;1
+07/07/17;Arroz Simples;Feijão Simples;Carne Assada Fatiada;Guarnição Francesa;Alface;Couve;Salada de Lentilha;Suco e Fruta;1
+25/07/17;Arroz Simples;Feijão Simples;Carne Bovina Assada ao Molho de Tomate;Macarrão ao Molho Branco;Alface;Couve;Salada de Soja;Suco e Gelatina;1
+26/07/17;Arroz Simples;Feijão Simples;Pernil Suíno Assado ao Molho Madeira;Chuchu com Carne Moída;Alface;Chicória;Cenoura Cozida;Suco e Pudim;1
+27/07/17;Arroz Colorido;Feijão Simples;Almondega ao Molho de Tomate;Batata Dourada com Queijo;Alface;Couve;Beterraba Cozida;Suco e Fruta;0
+28/07/17;Arroz Simples;Feijão Simples;Bife Suíno Acebolado;Abóbora com Carne Moída;Alface;Chicória;Vinagrete;Suco e Doce de Leite;1
+31/07/17;Arroz Simples;Feijão Simples;Carne de Panela Suína;Guarnição Francesa;Beterraba Ralada;-;Tomate;Suco e Banana;1
+01/08/17;Arroz Simples;Feijão Simples;Pernil Assado ao Molho Madeira;Farofa de Cenoura;Alface;Couve;Salada de Batata com Cenoura;Suco e Iogurte/Laranja;1
+02/08/17;Arroz Simples;Feijão Simples;Carne Bovina Assada;Chuchu com Carne Moída;Alface;Chicória;Cenoura Cozida;Suco e Maçã/Laranja;1
+03/08/17;Arroz Simples;Feijão Simples;Pernil Assado ao Molho de Tomate;Arroz à Grega;Alface;Couve;Beterraba Cozida;Suco e Doce de Leite/Laranja;1
+04/08/17;Arroz Simples;Feijão Simples;Lasanha de Carne Moída;Repolho com Cenoura e Carne Moída;Alface;Chicória;Tomate;Suco e Gelatina/Laranja;1
+07/08/17;Arroz Simples;Feijão Simples;Carne Moída/Almôndega ao Molho de Tomate;Macarrão ao Alho e Óleo;Beterraba Ralada;-;Tomate;Suco e Doce em Tablete/Laranja;0
+08/08/17;Arroz Simples;Feijão Simples;Pernil Suíno ao Molho de Tomate;Abóbora Refogada;Alface;Couve;Salada de Grão de Bico com Tomate;Suco e Iogurte/Laranja;1
+09/08/17;Arroz Simples;Feijão Simples;Falso Lombo;Batata Corada com Queijo;Alface;Chicória;Beterraba Cozida;Suco e Maçã/Laranja;0
+10/08/17;Arroz Simples;Feijão Simples;Carne de Panela Bovina e Suína;Chuchu ao Molho de Tomate;Alface;Couve;Vinagrete;Suco e Doce de Leite/Laranja;1
+15/08/17;Arroz Simples;Feijão Simples;Carne de Panela Bovina;Guarnição Francesa;Tomate;-;Cenoura Ralada;Suco e Banana;1
+16/08/17;Arroz Simples;Feijão Simples;Pernil Assado ao Molho;Abóbora Refogada com Carne Moída;Alface;Chicória;Beterraba Cozida;Suco e Iogurte;1
+17/08/17;Arroz Simples;Feijão Simples;Carne de Panela Suína;Macarrão à Bolonhesa;Alface;Couve;Salada de Batata com Cenoura;Suco/Doce de Leite;1
+18/08/17;Arroz Simples;Feijão Simples;Lasanha de Carne Moída;Repolho Refogado com Bacon e Uvas passas;Alface;Chicória;Tomate;Suco/Fruta;1
+21/08/17;Arroz Simples;Feijão Simples;Carne de Panela Suína;Macarrão Talharim ao Alho e Óleo;Salada de Lentilha;-;Cenoura Ralada;Suco e Fruta;1
+22/08/17;Arroz Simples;Feijão Simples;Quibe Frito;Batata Ensopada;Alface;Chicória;Salada de Grão de Bico;Suco e Iogurte;0
+23/08/17;Arroz Simples;Feijão Simples;Pernil Assado ao Molho Madeira;Chuchu ao Molho de Tomate;Alface;Couve;Beterraba Cozida;Suco e Pudim;1
+24/08/17;Arroz Simples;Feijão Simples;Carne de Panela Bovina/Suína;Farofa de Cenoura e Uvas Passas;Alface;Chicória;Cenoura Cozida;Suco e Doce de Leite;1
+25/08/17;Arroz Simples;Feijão Simples;Lasanha de Carne Moída;Virado de Cenoura;Alface;Couve;Tomate;Suco e Fruta;1
+28/08/17;Arroz Simples;Feijão Simples;Carne Moída;Macarrão Parafuso ao Alho e Óleo;Salada de Grão de Bico;Repolho;Cenoura Ralada;Suco e Banana;1
+29/08/17;Arroz Simples;Feijão Simples;Carne Assada ao Molho;Abóbora Cozida com Carne Moída;Alface;Chicória;Beterraba Cozida;Suco e Iogurte;1
+30/08/17;Arroz Simples;Feijão Simples;Bife Suíno e de Hambúrguer;Batata Souté;Alface;Couve;Salada de Lentilha com Cenoura;Suco e Gelatina;1
+31/08/17;Arroz Simples;Feijão Simples;Carne de Panela Suína;Farofa de Couve;Alface;Chicória;Salada de Batata com Cenoura;Suco e Doce de Leite;1
+01/09/17;Arroz Simples;Feijão Simples;Lasanha de Carne Moída;Grão de Bico com Ovos e Cenoura;Alface;Couve;Tomate;Suco e Fruta;1
+04/09/17;Arroz Simples;Feijão Simples;Carne de Panela;Guarnição Francesa;Salada de Grão de Bico;Beterraba Cozida;-;Suco e Banana;1
+05/09/17;Arroz Simples;Feijão Simples;Pernil Assado ao Molho Madeira;Chuchu ao Molho Branco;Alface;Chicória;Tomate;Suco e Iogurte;1
+06/09/17;Arroz Simples;Feijão Simples;Almôndegas;Espaguete ao Molho de Tomate e Milho Verde;Alface;Couve;Cenoura Cozida;Suco e Doce de Leite;0
+11/09/17;Arroz Simples;Feijão Simples;Carne Moída ao Molho de Tomate;Angu de Tabuleiro;Cenoura Ralada;Beterraba Ralada;-;Suco e Iogurte;1
+12/09/17;Arroz Simples;Feijão Simples;Pernil Suíno Assado ao Molho Madeira;Macarrão Talharim à Bolonhesa;Alface;Couve;Cenoura Cozida;Suco e Pudim;1
+13/09/17;Arroz Simples;Feijão Simples;Carne Bovina Assada ao Molho de Tomate;Farofa de Couve;Alface ;Chicória;Beterraba Cozida;Suco e Gelatina;1
+14/09/17;Arroz Simples;Feijão Simples;Bife Suíno Acebolado/Pernil Suíno Assado;Abóbora Refogada com Carne Moída;Alface;Couve;Tomate;Suco e Fruta;1
+16/10/17;Arroz Simples;Feijão Simples;Carne de Panela Suína;Macarrão Talharim a Bolonhesa;Repolhonese;-;-;Suco e Iogurte/Doce em Tablete;1
+17/10/17;Arroz Simples;Feijão Simples;Pernil Assado ao Molho Madeira;Farofa de Cenoura e Bacon;Beterraba Cozida;-;-;Suco e Doce de Creme com Coco;1
+18/10/17;Arroz Simples;Feijão Simples;Estrogonofe Bovino;Batata Palha;Beterraba Cozida/Cenoura Cozida;-;-;Suco e Doce de Leite;1
+19/10/17;Arroz Simples;Feijão Simples;Carne Moída Bovina com Cenoura;Angu de Tabuleiro com Queijo;Tomate;-;-;Suco e Gelatina ;1
+20/10/17;Arroz Simples;Feijão Simples;Lasanha de Carne Moída;Repolho Refogado com Cenoura;Tomate;-;-;Suco e Fruta;1
+23/10/17;Arroz Simples;Feijão Simples;Coxa e Sobrecoxa Assada;Farofa com Carne Seca;Cenoura Ralada com Milho Verde e Uva Passas;-;-;Suco e Doce em Tablete;1
+24/10/17;Arroz Simples;Feijão Tropeiro;Carne de Panela Suína;Couve Refogada;Beterraba Cozida;-;-;Suco e Doce de Leite;1
+25/10/17;Arroz com Vagem;Feijão Simples;Carne Bovina Moída ao Molho de Tomate;Macarrão ao Alho e Óleo;Cenoura Cozida;-;-;Suco e Iogurte;1
+26/10/17;Arroz Simples;Feijão Simples;Carne Suína Assada ao Molho de Tomate;Abóbora Refogada;Salada de Batatas;-;-;Suco e Gelatina;1
+27/10/17;Arroz Simples;Feijão Simples;Empadão de Carne Moída;Repolho Refogado;Tomate;-;-;Suco e Doce em Tablete;1
+30/10/17;Arroz Simples;Feijão Simples;Assa de Frango Frita;Angu de Tabuleiro com Carne Moída;Tomate em Rodelas;-;-;Suco e Fruta;0
+31/10/17;Arroz Simples;Feijão Simples;Churrasquinho Suíno na Chapa;Batata Corada com Queijo;Cenoura Cozida;-;-;Suco e Arroz Doce Moreno;1
+01/11/17;Arroz Simples;Feijão Simples;Peite de Frango ao Molho de Tomate;Farofa de Cenoura;Beterraba Cozida;-;-;Suco e Fruta;1
+06/11/17;Arroz Simples;Feijão Simples;Carne Moída Bovina com Cenoura;Angu de Tabuleiro com Queijo;Beterraba Ralada;Salada de Repolho;-;Suco e Fruta;1
+07/11/17;Arroz Simples;Feijão Simples;Coxa de Galinha Cozida;Grão de Bico com Ovos;Salada de Chuchu;-;-;Suco e Pudim;1
+08/11/17;Arroz Simples;Feijão Simples;Carne Bovina Assada;Purê de Abóbora;Beterraba Cozida;-;-;Suco e Gelatina;1
+09/11/17;Arroz Simples;Feijão Simples;Asa de Galinha Cozida;Macarrão a Bolonhesa;Tomate;-;-;Suco e Arroz Doce Moreno;0
+10/11/17;Arroz Simples;Feijão Simples;Almôndegas ao Molho;Batata Ensopada;Salada de Grão de Bico;-;-;Suco e Fruta;0
+13/11/17;Arroz Simples;Feijão Simples;Carne de Panela Suína;Farofa de Cenoura e Uva Passas;Cenoura Ralada;Beterraba Ralada;-;Suco e Doce em Tablete;1
+14/11/17;Arroz Simples;Feijão Simples;Pernil Assado ao Molho Madeira;Repolho com Cenoura Refogados;Beterraba Cozida;-;-;Suco e Doce de Creme com Coco;1
+17/11/17;Arroz Simples;Feijão Simples;Peixe Frito;Batata Ensopada;Repolhonese;-;-;Suco e Banana;0
+20/11/17;Arroz Simples;Feijão Simples;Carne Moída Suína;Angu de Tabuleiro com Queijo;Beterraba Ralada;-;-;Suco e Fruta;0
+21/11/17;Arroz Simples;Feijão Simples;Coxa e Sobrecoxa de Galinha Cozida;Macarrão ao Alho e Óleo;Soja;-;-;Suco e Pudim;1
+22/11/17;Arroz Simples;Feijão Simples;Pernil Assado ao Molho Madeira;Farofa;Cenoura Cozida;-;-;Suco e Arroz Doce;1
+23/11/17;Arroz Simples;Feijão Simples;Carne de Panela Suína;Caniquinha com bacon;Tomate;-;-;Suco e Gelatina;1
+24/11/17;Arroz Simples;Feijão Simples;Peixe Frito;Purê de Abóbora;Grão de Bico/Lentilha;-;-;Suco e Fruta;0
+27/11/17;Arroz Simples;Feijão Simples;Carne de Panela Suína;Canjiquinha;Beterraba Ralada;-;-;Suco e Doce em Tablete;1
+28/11/17;Arroz Simples;Feijão Simples;Peixe Empanado;Abobrinha Refogada com Carne Moída;Couve-flor;Repolhonese;-;Suco e Doce de Creme com Coco;0
+29/11/17;Arroz Simples;Feijão Simples;Pernil Suíno Assado ao Molho Madeira;Farofa de Couve;Cenoura Cozida;-;-;Suco e Doce de Leite;1
+30/11/17;Arroz Simples;Feijão Tropeiro;Carne Bovina Assada/Carne Bovina Moída;Macarrão ao Alho e Óleo;Tomate;Couve;-;Suco e Fruta;1
+04/12/17;Arroz Simples;Feijão Simples;Estrogonofe Suíno;Batata Palha;Repolho Roxo;Salada de Grão de Bico com Tomate;;Suco e Fruta;1
+05/12/17;Arroz Simples;Feijão Simples;Carne Moída Bovina;Batata e Cenoura Souté;Repolhonese;-;-;Suco e Gelatina;1
+06/12/17;Arroz Simples;Feijão Simples;Bife Suíno Acebolado;Abobrinha Refogada com Carne Moída;Beterraba Cozida;-;-;Suco e Doce de Creme com Coco;1
+07/12/17;Arroz Simples;Feijão Simples;Pernil Assado ao Molho Madeira;Abóbora Cozida;Tomate;-;-;Suco e Fruta;1
+11/12/17;Arroz Simples;Feijão Simples;Churrasco Suíno na Chapa;Farofa de Ovos;Beterraba Ralada;Tabule;-;Suco e Fruta;1
+12/12/17;Arroz Simples;Feijão Simples;Pernil Assado ao Molho Madeira;Canjiquinha;Salada de Repolho;Salada de Soja;-;Suco e Arroz Doce;1
+13/12/17;Arroz Simples;Feijão Simples;Carne Panela Suína;Salpicão de Presunto;Tomate;-;-;Suco e Doce em Tablete;1
+14/12/17;Arroz Simples;Feijão Simples;Carne Bovina Assada;Talharim ao Molho Branco;Cenoura Cozida;-;-;Suco e Gelatina;1
+15/12/17;Arroz Simples;Feijão Simples;Linguiça ao Molho;Angu de Tabuleiro com Queijo;Beterraba Cozida;-;-;Suco e Doce em Tablete;1
+05/02/18;Arroz Simples;Feijão Simples;Coxa e Sobrecoxa Cozida;Macarrão à Bolonhesa;Salada de Folhosos;-;-;Suco e Doce em Tablete;1
+06/02/18;Arroz Simples;Feijão Simples;Pernil Suíno Assado ao Molho Madeira;Canjiquinha;Salada de Folhosos;-;-;Suco e Gelatina;1
+07/02/18;Arroz Simples;Feijão Simples;Asa de Frango Cozida;Farofa de Couve;Tomate;-;-;Suco e Arroz Doce Moreno;0
+08/02/18;Arroz Simples;Feijão Simples;Pernil Suíno Assado ao Molho de Tomate;Salpicão de Frango e Presunto;Beterraba Cozida;-;-;Suco e Fruta;1
+09/02/18;Arroz Simples;Feijão Simples;Coxa e Sobrecoxa Cozida;Batata Sauté;Grão de Bico ao Vinagrete;-;-;Suco e Gelatina;1
+15/02/18;Arroz Simples;Feijão Simples;Coxa e Sobrecoxa Cozida;Farofa de Cenoura;Tomate;-;-;Suco e Maçã;1
+16/02/18;Arroz Simples;Feijão Simples;Peixe Empanado Frito;Purê de Batata;Salada de Folhosos;-;-;Suco e Gelatina;0
+19/02/18;Arroz Colorido;Feijão Simples;Peito de Frango Cozido;Grão de Bico com Ovos;Salada de Folhosos;Tomate;-;Suco e Doce em Tablete;1
+20/02/18;Arroz Simples;Feijão Simples;Bife Suíno Grelhado;Canjiquinha;Beterraba Cozida;-;-;Suco e Arroz Doce;1
+21/02/18;Arroz Simples;Feijão Simples;Coxa e Sobrecoxa Cozida;Guarnição Francesa;Tabule;Salada de Folhosos;-;Suco e Fruta;1
+22/02/18;Arroz Simples;Feijão Simples;Carne de Panela Suína;Macarrão à Bolonhesa;Cenoura Cozida;-;-;Suco e Iogurte;1
+23/02/18;Arroz Simples;Feijão Simples;Carne Moída com Cenoura;Angu com Queijo;Salada de Folhosos;-;-;Suco e Fruta;1
+26/02/18;Arroz Simples;Feijão Simples;Churrasco Suíno Acebolado;Macarrão ao Alho e Óleo;Repolho;Salada de Soja;-;Suco e Doce em Tablete;1
+27/02/18;Arroz Simples;Feijão Simples;Pernil Assado ao Molho Madeira;Farofa de Couve;Salada de folhosos;-;-;Suco e Iogurte;1
+28/02/18;Arroz com Cenoura e Vagem;Feijão Simples;Coxa e Sobrecoxa de Galinha Cozida;Angu com Carne Moída;Vinagrete;-;-;Suco e Doce de leite;1
+01/03/18;Arroz Simples;Feijão Simples;Pernil Assado ao Molho de Tomate;Batata Ensopada;Beterraba Cozida;-;-;Suco e Gelatina;1
+02/03/18;Arroz Simples;Feijão Simples;Empadão de Carne Moída;Grão de Bico com Ovos;Salada de folhosos;-;-;Suco e Fruta;1
+05/03/18;Arroz Simples;Feijão Simples;Carne Moída Bovina;Angu de Tabuleiro;Cenoura Ralada;-;-;Suco e Doce em Tablete;1
+06/03/18;Arroz Simples;Feijão Simples;Pernil Assado ao Molho Madeira;Chuchu ao Molho Branco;Alface;Beterraba Ralada;-;Suco e Fruta;1
+07/03/18;Arroz Simples;Feijão Simples;Peixe Frito;Abóbora Refogada com Carne Moída ;Tomate;-;-;Suco e Doce de Leite;0
+08/03/18;Arroz Simples;Feijão Simples;Carne Bovina Assada ao Molho Madeira;Farofa de Couve;Beterraba Cozida;Salada de Batata;-;Suco e Iogurte;1
+09/03/18;Arroz Simples;Feijão Simples;Lasanha;Repolho Refogado;Alface e Tomate;-;-;Suco e Gelatina;1
+12/03/18;Arroz Simples;Tutu de Feijão;Coxa/Sobrecoxa Frango;Macarrão a Bolonhesa;Beterraba Ralada;Cenoura Ralada;-;Suco e Doce em Tablete;1
+13/03/18;Arroz Simples;Feijão Simples;Pernil Suíno Assado ao Molho Madeira;Grão de bico com ovos;Tomate;-;-;Suco e Arroz Doce;1
+14/03/18;Arroz Colorido;Feijão Simples;Asa de Frango;Macarronese;Alface ;-;-;Suco e Iogurte;1
+15/03/18;Arroz Simples;Feijão Simples;Bife Suíno/Churrasquinho na Chapa;Feijão Tropeiro;Vinagrete;-;-;Suco e Doce de Leite;1
+16/03/18;Arroz Simples;Feijão Simples;Peixe Frito;Batata e Cenoura ao molho branco;Beterraba Cozida;-;-;Suco e Fruta;0
+19/03/18;Arroz Simples;Feijão Simples;Carne de Panela Suína/Almôndega;Salpicão de Presunto;Repolho;Beterraba Ralada;-;Suco e Laranja;0
+20/03/18;Arroz Simples;Feijão Simples;Peixe Frito;Purê de Abóbora c/ Queijo;Tomate;-;-;Suco e Iogurte;0
+21/03/18;Arroz Simples;Feijão Simples;Pernil Assado ao Molho Madeira;Farofa de Couve;Cenoura Cozida;-;-;Suco e Pudim;1
+22/03/18;Arroz Simples;Feijão Simples;Churrasco Suíno;Batata Assada com Queijo;Beterraba Cozida;-;-;Suco e Doce de Leite;1
+23/03/18;Arroz Simples;Feijão Simples;Lasanha de Carne Moída;Abobrinha Refogada;Tomate;-;-;Suco e Fruta;1
+27/03/18;Arroz Simples;Feijão Simples;Linguiça Assada;Abóbora Cozida com Carne Moída;Tomate;-;-;Suco/Doce de Leite/Doce em Tablete;1
+28/03/18;Arroz Simples;Feijão Simples;Peixe Frito/Frango Cozido;Grão de Bico com Ovos;Cenoura Cozida;-;-;Suco/Iogurte;0
+29/03/18;Arroz Simples;Feijão Simples;Empadão de Carne Moída;Repolho Refogado com Cenoura;Beterraba Cozida;-;-;Suco/Fruta;1
+02/04/18;Arroz Simples;Feijão Simples;Carne Moída;Angu de Tabuleiro com Queijo;Cenoura Ralada;Beterraba Ralada;-;Suco e Doce em Tablete;1
+03/04/18;Arroz Simples;Feijão Simples;Coxa e Sobrecoxa Cozida;Abóbora Cozida;Alface;-;-;Suco e Iogurte;1
+04/04/18;Arroz Simples;Feijão Simples;Pernil Suíno Assado ao Molho Madeira/Churrasquinho;Canjiquinha;Chicória;Tomate;-;Suco e Doce de Leite;1
+05/04/18;Arroz Simples;Feijão Simples;Asa de Frango Cozida;Farofa de Couve;Beterraba Cozida;-;-;Suco e Gelatina;0
+06/04/18;Arroz Simples;Feijão Simples;Lasanha de Carne Moída;Cenoura com Ovos;Tomate;-;-;Suco e Fruta;1
+16/04/18;Arroz Simples;Feijão Batido;Coxa e Sobrecoxa de Frango Cozida;Macarrão ao Alho e Óleo;Tabule;Beterraba Ralada;-;Suco e Doce em Tablete;1
+17/04/18;Arroz Simples;Feijão Inteiro;Pernil Assado ao Molho Madeira;Farofa de Couve;Alface/Chicória;Tomate;-;Suco e Pudim de Morango;1
+18/04/18;Arroz Simples;Feijão Inteiro;Peixe Frito;Batata Ensopada;Beterraba Cozida/ OBS: Limão para o peixe;-;-;Suco e Iogurte;0
+19/04/18;Arroz Simples;Feijão Inteiro;Asa de Frango Cozida;Macarronese de Presunto;Alface/Chicória;Cenoura Cozida;-;Suco e Doce de Leite;0
+20/04/18;Arroz Simples;Feijão Inteiro;Carne Bovina Assada;Chuchu ao Molho Branco;Tomate;-;-;Suco e Fruta;1
+23/04/18;Arroz Simples;Feijão Batido;Peito de Frango Cozido;Macarrão ao Alho e Óleo;Vinagrete;Beterraba Ralada;-;Suco e Doce em Tablete;1
+25/04/18;Arroz Simples;Feijão Inteiro;Peixe Frito;Batata ao Forno;Alface;Repolho com Tomate;-;Suco e Doce de Leite;0
+26/04/18;Arroz Simples;Feijão Inteiro;Carne de Panela Bovina/Suína;Guarnição Francesa;Couve;Beterraba Cozida;-;Suco e Iogurte;1
+27/04/18;Arroz Simples;Feijão Inteiro;Lasanha de Carne Moída;Abobrinha Refogada;Tomate;-;-;Suco e Fruta;1
+02/05/18;Arroz Simples;Feijão Simples;Peixe Empanado;Guarnição Francesa;Beterraba Ralada;-;-;Suco e Doce em Tablete;0
+03/05/18;Arroz Simples;Feijão Batido;Coxa e Sobrecoxa Cozida;Feijão Tropeiro;Vinagrete;-;-;Suco e Doce de Leite;1
+04/05/18;Arroz Simples;Feijão Simples;Pernil Suíno Assado ao Molho Madeira;Macarrão ao Alho e Óleo;Alface;Cenoura Cozida;-;Suco e Iogurte;0
+07/05/18;Arroz Simples;Feijão Simples;Coxa e Sobrecoxa de Frango Cozida;Angu de Tabuleiro com Queijo;Beterraba Ralada;Repolho com Tomate;-;Suco e Laranja;1
+08/05/18;Arroz Simples;Feijão Simples;Peixe Frito;Pirão de Peixe;Chicória;Cenoura Cozida;-;Suco e Doce de Leite;0
+09/05/18;Arroz Simples;Feijão Simples;Carne Suína Assada/Bife Grelhado;Farofa de Couve;Alface;Beterraba Cozida;-;Suco e Iogurte;1
+10/05/18;Arroz Simples;Feijão Simples;Asa de Frango Empanada;Macarrão ao Alho e Óleo;Vinagrete;-;-;Suco e Fruta;0
+11/05/18;Arroz Simples;Feijão Simples;Lasanha;Cenoura com Ovos;Alface com Tomate;-;-;Suco e Doce em Tablete;1
+14/05/18;Arroz Simples;Feijão Simples;Peito de Frango Cozido;Macarrão ao Alho e Bacon;Cenoura Ralada;Tabule;-;Suco e Doce em Tablete;1
+15/05/18;Arroz Simples;Feijão Simples;Carne Moída Bovina com Cenoura;Angu de Tabuleiro com Queijo;Alface;Beterraba Cozida;-;Suco e Pudim;1
+16/05/18;Arroz Simples;Feijão Simples;Carne Bovina/Suína Assada/Carne de Panela Suína;Farofa de Frutas;Vinagrete;-;-;Suco e Doce de Leite;1
+17/05/18;Arroz Simples;Feijão Simples;Coxa e Sobrecoxa Assada/Asa Empanada;Legumes Souté;Alface;-;-;Suco e Iogurte;0
+18/05/18;Arroz Simples;Feijão Simples;Peixe Frito;Purê de Abóbora;Tomate;Salada de Chuchu;-;Suco e Gelatina;0
+21/05/18;Arroz Simples;Feijão Simples;Peixe Empanado;Pirão de Peixe;Beterraba Ralada;Repolhonese de Presunto;-;Doce em Tablete;0
+22/05/18;Arroz Simples;Feijão Simples;Carne Bovina Assada ao Molho Madeira;Guarnição Francesa;Alface;Tomate;-;Doce de Leite;1
+23/05/18;Arroz Simples;Feijão Simples;Carne Moída Bovina com Batata;Polenta Mole com Couve;Beterraba Cozida;Cenoura Ralada;-;Arroz Doce;1
+24/05/18;Arroz Simples;Feijão Simples;Pernil Suíno Assado ao Molho de Tomate/Almôndega;Abóbora Cozida ao Bacon;Tomate com Alface;-;-;Gelatina;1
+25/05/18;Arroz Simples;Feijão Simples;Empadão de Carne Moída Bovina;Virado de Cenoura;Alface;Couve;-;Iogurte;1
+04/06/18;Arroz Simples;Feijão Simples;Carne de Panela Suína;Macarrão ao Alho, Bacon e Milho Verde;Vinagrete;-;-;Doce em Tablete;1
+05/06/18;Arroz Simples;Feijão Simples;Pernil Suíno Assado;Farofa de Cenoura;Alface;Couve;-;Doce de Creme;1
+06/06/18;Arroz Simples;Feijão Simples;Estrogonofe;Guarnição Francesa;Beterraba Cozida;-;-;Doce em Tablete;1
+07/06/18;Arroz Simples;Feijão Simples;Carne Moída Bovina com Cenoura;Angu de Tabuleiro com Queijo;Tomate;-;-;Doce de Leite;1
+08/06/18;Arroz Simples;Feijão Simples;Empadão de Carne Moída;Abobrinha Refogada;Alface com Tomate;-;-;Fruta;1
+11/06/18;Arroz Simples;Feijão Simples;Bife Suíno Acebolado;Farofa de Ovos e Milho Verde;Cenoura Ralada;Beterraba Ralada;-;Doce em Tablete;1
+12/06/18;Arroz Simples;Feijão Simples;Pernil Assado ao Molho Madeira;Salpicão de Presunto;Beterraba Cozida;Couve;-;Sobremesa Especial;1
+13/06/18;Arroz Simples;Feijão Simples;Carne de Panela Suína;Couve-flor Gratinada;Alface com Tomate;-;-;Doce de Leite;1
+14/06/18;Arroz Simples;Feijão Simples;Carne Suína Assada ao Molho de Tomate;Inhame ao Bacon;Tomate;-;-;Gelatina;1
+15/06/18;Arroz Simples;Feijão Simples;Lasanha de Carne Moída;Grão de Bico com Ovos;Alface;Chicória;-;Fruta;1
+18/06/18;Arroz Simples;Feijão Simples;Frango Cozido;Macarrão ao Alho e Óleo;Vinagrete;-;-;Doce em Tablete;1
+19/06/18;Arroz Simples;Feijão Simples;Pernil Assado ao Molho Madeira;Farofa de Cenoura;Folhosos;Beterraba Cozida;-;Doce de Leite;1
+20/06/18;Arroz Simples;Feijão Simples;Falso Lombo;Abóbora Cozida;Tomate;-;-;Iogurte;0
+21/06/18;Arroz Simples;Feijão Simples;Carne Moída com Legumes;Angu de Tabuleiro com Queijo;Beterraba Cozida;-;-;Doce de Leite;1
+25/06/18;Arroz Simples;Feijão Simples;Hambúrguer a Pizzaiolo;Farofa de Frutas;Vinagrete;Cenoura Ralada;-;Iogurte;1
+26/06/18;Arroz Simples;Feijão Simples;Carne de Panela Suína;Batata ao Forno;Folhosos;Repolho com Cenoura;-;Pudim;1
+27/06/18;Arroz Simples com Vagem;Feijão Simples;Pernil Assado ao Molho Madeira;Salpicão de Presunto;Couve – flor c/ Brócolis;-;-;Doce de Leite;1
+28/06/18;Arroz Simples;Feijão Simples;Quibe de Tabuleiro;Macarrão ao Molho;Tomate;Beterraba Cozida;-;Gelatina Especial;0
+29/06/18;Arroz Simples;Feijão Simples;Lasanha de Carne Moída;Grão de Bico com Ovos;Alface com Tomate;-;-;Fruta;1
+03/07/18;Arroz Simples;Feijão Simples;Quibe de Tabuleiro;Tomate;Cenoura Ralada;-;-;Doce de Leite;0
+04/07/18;Arroz Simples ;Feijão Simples;Carne de Panela Suína;Tabule;Repolho;-;-;Gelatina;1
+05/07/18;Arroz Simples;Feijão Simples;Carne Bovina Assada ao Molho Madeira;Macarronese;Alface;-;-;Pudim;1
+06/07/18;Arroz Simples;Feijão Simples;Lasanha de Carne Moída;Couve-flor c/ Brócolis;-;-;-;Iogurte;1
+09/07/18;Arroz Simples ;Feijão Simples;Estrogonofe Suíno;Batata Palha;Repolho com Tomate;-;-;Doce em Tablete;1
+10/07/18;Arroz Simples ;Feijão Simples;Pernil Assado ao Molho Madeira;-;Cenoura Cozida;Maionese de Presunto;-;Pudim;1
+11/07/18;Arroz Simples ;Feijão Simples;Carne Bovina Assada;Farofa de Ovos;Alface;-;-;Doce de Leite;1
+12/07/18;Arroz Simples;Feijão Simples;Carne de Panela Suína;Angu de Tabuleiro com Queijo;Vinagrete;-;-;Doce em Tablete;1
+13/08/18;Arroz Simples ;Feijão Simples;Falso Lombo;Espaguete ao Alho e Óleo;Repolho;Tabule;-;Doce em Tablete;0
+15/08/18;Arroz Simples;Feijão Simples;Linguiça/Bife Suíno;Canjiquinha;Alface/Chicória;Beterraba Ralada;-;Gelatina Cremosa;1
+16/08/18;Arroz Simples;Feijão Simples;Pernil Assado;Batata Souté;Alface/Repolho;Beterraba Cozida;-;Iogurte;1
+17/08/18;Arroz Simples;Feijão Simples;Empadão de Carne Moída;Grão de Bico com Ovos;Cenoura Cozida;Tomate;-;Fruta;1
+20/08/18;Arroz Simples ;Feijão Simples;Linguiça Assada;Guarnição Francesa;Cenoura;Grão de Bico com Queijo;-;Doce em Tablete;1
+21/08/18;Arroz Simples ;Feijão Simples;Pernil Suíno Assado ao Molho Madeira;Mandioca Cozida;Alface/Chicória;Beterraba Cozida;-;Doce de Leite;1
+22/08/18;Arroz Simples;Feijão Simples;Carne Bovina/Suína Assada ao Molho de Tomate;-;Alface/Couve;Cenoura Cozida;-;Gelatina;1
+23/08/18;Arroz Simples;Feijão Simples;Carne de Panela;Batata ao Forno;Alface/Repolho;Beterraba Cozida;-;Iogurte;1
+24/08/18;Arroz Simples;Feijão Simples;Lasanha de Carne Moida;Repolho com Cenoura;Alface;Couve;-;Fruta;1
+27/08/18;Arroz Simples ;Feijão Simples;Bife Suíno Acebolado;Macarrão Talharim ao Alho e Óleo;Repolhonese;Beterraba Ralada;-;Doce em Tablete;1
+28/08/18;Arroz Simples;Feijão Simples;Almôndegas ao Molho;Farofa de Couve;Couve-flor;Beterraba Cozida;-;Doce de Leite;0
+29/08/18;Arroz Simples ;Feijão Simples;Pernil Assado ao Molho Madeira;Chuchu ao Molho Branco;Alface/Couve;Tomate;-;Arroz Doce;1
+30/08/18;Arroz Simples;Feijão Simples;Falso Lombo ;Batata Ensopada;Repolho com Tomate;Beterraba Cozida;-;Iogurte;0
+31/08/18;Arroz Simples;Feijão Simples;Fricassê de Carne Moída;Virado de Cenoura;Alface/Brócolis;-;-;Fruta;1
+03/09/18;Arroz Simples;Feijão Simples;Carne de Panela Suína/Bovina;Angu com Queijo;Tabule;Repolhonese;-;Doce em Tablete;1
+04/09/18;Arroz Simples;Feijão Simples;Quibe de Tabuleiro;Mandioca Cozida;Alface/Couve;Vinagrete;-;Doce de Leite;0
+05/09/18;Arroz Simples;Feijão Simples;Carne Assada ao Molho Madeira;Farofa de Couve;Alface/Chicória;Couve-flor;-;Pudim de Creme;1
+06/09/18;Arroz Simples;Feijão Simples;Lasanha de Presunto e Coelho;Grão de Bico com Ovos;Alface/Brócolis;Beterraba Cozida;-;Iogurte;1
+10/09/18;Arroz Simples ;Feijão Simples;Carne Moída Bovina ao Molho;Angu com Queijo;Cenoura Ralada;Vinagrete de Grão de Bico;-;Doce em Tablete;1
+11/09/18;Arroz Simples ;Feijão Simples;Iscas Suínas ao Molho;Mandioca Cozida;Alface/Couve;Beterraba Cozida;-;Doce de Leite;1
+12/09/18;Arroz Simples;Feijão Simples;Feijoada;Farofa de Couve;Laranja;Vinagrete;-;Pudim;0
+13/09/18;Arroz Simples;Feijão Simples;Almôndega ao Molho;Batata Sauté;Alface/Repolho;Brócolis/ Couve-flor;-;Iogurte;0
+14/09/18;Arroz Simples;Feijão Simples;Lasanha de Carne Moída;Repolho com Cenoura;Alface/Couve;-;-;Fruta;1
+17/09/18;Arroz Simples ;Feijão Simples;Carne de Panela;Talharim ao Molho de Tomate;Repolho com Cenoura;Tabule;-;Doce em Tablete;1
+18/09/18;Arroz Simples ;Feijão Simples;Carne Suína/Bovina Assada ao Molho Madeira;Batata ao Forno;Alface/Chicória;Beterraba Cozida;-;Doce de Leite;1
+19/09/18;Arroz Simples;Feijão Simples;Falso Lombo;Chuchu ao Molho Branco;Alface/Couve;Tomate;-;Arroz Doce;0
+20/09/18;Arroz Simples;Feijão Simples;Feijoada;Farofa de Couve;Laranja;Beterraba Cozida;-;Iogurte;0
+21/09/18;Arroz Simples;Feijão Simples;Fricassê de Carne Moída;Virado de Cenoura;Alface/Couve;-;-;Fruta;1
+12/11/18;Arroz Colorido;Feijão Simples;Pernil Assado ao Abacaxi;Farofa de Frutas e Bacon;Salpicão de Frango;Vinagrete;-;Bolo Especial;1
+13/11/18;Arroz Simples ;Feijão Simples;Asa de Frango Empanada;Mandioca Ensopada;Alface/Couve;Beterraba Cozida;-;Doce de Leite;0
+14/11/18;Arroz Simples;Feijão Simples;Almôndega ao Molho;Farofa de Couve;Laranja;Tomate;-;Pudim;0
+05/11/18;Arroz Simples ;Feijão Simples;Frango em Cubos;Macarrão Gravatinha ao Alho e Óleo;Repolho com Cenoura;Vinagrete de Grão de Bico;-;Doce em Tablete;1
+06/11/18;Arroz Simples ;Feijão Simples;Asa de Frango Empanada;Farofa de Couve;Laranja;Beterraba Cozida;-;Doce de Leite;1
+07/11/18;Arroz Simples;Feijão Simples;Coxa e Sobrecoxa Assada;Chuchu Refogado;Alface/Couve;Tomate;-;Gelatina;1
+08/11/18;Arroz Simples;Feijão Simples;Bife de Panela/Carne de Panela;Mandioca Frita;Alface/Repolho;Beterraba Cozida;-;Iogurte;1
+09/11/18;Arroz Simples;Feijão Simples;Fricassê de Frango;Repolho com Cenoura;Alface/Couve;-;-;Fruta;1
+29/10/18;Arroz Simples ;Feijão Simples;Linguiça Acebolada;Angu ao Molho;Cenoura Ralada;Tabule;-;Doce em Tablete;1
+30/10/18;Arroz Simples ;Feijão Simples;Filezinho de Frango Acebolado;Batata ao Forno;Alface/Chicória;Beterraba Crua;-;Doce de Leite;1
+31/10/18;Arroz Simples;Feijão Simples;Pernil Assado ao Molho Madeira;Inhame Cozido;Alface/Couve;Vinagrete;-;Arroz Doce;1
+01/11/18;Arroz Simples;Feijão Simples;Coxa e Sobrecoxa Assada;Farofa de Couve;Laranja;Beterraba Crua;-;Iogurte;1
+22/10/18;Arroz Simples ;Feijão Simples;Almôndega ao Molho;Macarrão Parafuso ao Molho Branco;Repolhonese;Tomate;-;Doce em Tablete;0
+23/10/18;Arroz Simples ;Feijão Simples;Asa de Frango Empanada;Abóbora Cozida;Alface/Couve;Beterraba Cozida;-;Doce de Leite;0
+24/10/18;Arroz Simples;Feijão Simples;Pernil Assado ao Molho Madeira;Farofa de Couve;Laranja/ Batata Cozida;Tomate;-;Pudim;1
+25/10/18;Arroz Simples;Feijão Simples;Estrogonofe de Frango;Batata Palha;Alface/Repolho;Cenoura Cozida;-;Iogurte;1
+26/10/18;Arroz Simples;Feijão Simples;Empadão de Frango;Mandioca Cozida ao Bacon;Alface/Couve;-;-;Fruta;1
+15/10/18;Arroz Simples ;Feijão Simples;Frango em Cubos;Canjiquinha;Cenoura Ralada;Vinagrete de Grão de Bico;-;Doce em Tablete;1
+16/10/18;Arroz Simples ;Feijão Simples;Feijoada;Farofa de Couve;Laranja;Beterraba Cozida;-;Doce de Leite;0
+17/10/18;Arroz Simples;Feijão Simples;Coxa e Sobrecoxa Ensopada;Mandioca Frita;Alface/Couve;Vinagrete;-;Gelatina;1
+18/10/18;Arroz Simples;Feijão Simples;Carne Bovina Assada;Batata Ensopada;Alface/Repolho;Beterraba Cozida;-;Iogurte;1
+19/10/18;Arroz Simples;Feijão Simples;Lasanha de Frango;Abobrinha Refogada;Alface/Couve;-;-;Fruta;1
+08/10/18;Arroz Simples ;Feijão Simples;Linguiça Acebolada;Talharim ao Molho de Tomate;Repolho com Cenoura;Tabule;-;Doce em Tablete;1
+09/10/18;Arroz Simples ;Feijão Simples;Filezinho de Frango Acebolado;Batata ao Forno;Alface/Chicória;Beterraba Cozida;-;Doce de Leite;1
+10/10/18;Arroz Simples;Feijão Simples;Carne Assada;Chuchu ao Molho Branco;Alface/Couve;Tomate;-;Arroz Doce;1
+11/10/18;Arroz Simples;Feijão Simples;Bife de Panela;Farofa de Couve;Laranja;Beterraba Cozida;-;Iogurte;1
+01/10/18;Arroz Simples ;Feijão Simples;Almôndega ao Molho;Angu com Queijo;Cenoura Ralada;Tomate;-;Doce em Tablete;0
+02/10/18;Arroz Simples ;Feijão Simples;Asa de Frango Empanada;Inhame Cozido;Alface/Couve;Cenoura Cozida;-;Doce de Leite;0
+03/10/18;Arroz Simples;Feijão Simples;Feijoada;Farofa de Couve;Laranja;Vinagrete;-;Pudim;0
+04/10/18;Arroz Simples;Feijão Simples;Iscas Suínas Aceboladas;Batata Sauté;Alface/Repolho;Beterraba Cozida;-;Iogurte;1
+05/10/18;Arroz Simples;Feijão Simples;Lasanha de Carne Moída;Repolho com Cenoura;Alface/Couve;-;-;Fruta;1
+24/09/18;Arroz Simples ;Feijão Simples;Quibe de Tabuleiro;Espaguete ao Alho e Óleo;Repolhonese;Vinagrete de Grão de Bico;-;Doce em Tablete;0
+25/09/18;Arroz Simples ;Feijão Simples;Feijoada;Farofa de Couve;Laranja;Cenoura Cozida;-;Doce de Leite;0
+26/09/18;Arroz Simples;Feijão Simples;Carne de Panela;Abóbora Cozida;Alface/Couve;Tomate;-;Gelatina;1
+27/09/18;Arroz Simples;Feijão Simples;Coxa e Sobrecoxa Assada;Batata Ensopada;Alface/Repolho;Beterraba Cozida;-;Iogurte;1
+28/09/18;Arroz Simples;Feijão Simples;Empadão de Frango;Grão de Bico com Ovos;Alface/Couve;-;-;Fruta;1
